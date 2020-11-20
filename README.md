@@ -1,16 +1,13 @@
-# sportshub
+# Sports Bet App UI Flutter
 
-A new Flutter project.
+Flutter based Sports Bet App UI
 
-## Getting Started
+## Demo
+Demo available on YouTube.
 
-This project is a starting point for a Flutter application.
+Link: 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![images (8)](https://user-images.githubusercontent.com/54774962/99819628-b43d0d00-2b75-11eb-8229-38a43e45b8da.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
